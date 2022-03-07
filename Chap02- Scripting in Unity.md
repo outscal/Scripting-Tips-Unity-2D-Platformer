@@ -1,4 +1,4 @@
-## HomeScreen of Scripting in Unity
+## Scripting in Unity
 
 Once your editor of choice opens up, you’ll be greeted by the following:
 
